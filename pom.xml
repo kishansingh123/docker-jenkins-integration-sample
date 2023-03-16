@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.javatechi</groupId>
+  <artifactId>docker-jenkins-Intigration-sample</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <build>
+    <finalName>docker-jenkins-integration-sample</finalName>
+  </build>
+  <name>Archetype - docker-jenkins-Intigration-sample</name>
+  <url>http://maven.apache.org</url>
+</project>
